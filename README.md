@@ -24,5 +24,6 @@
 [Sintaxes básicas do GitHub]([link](https://github.com/RianGregorio-22/aula-de-desing.git)) | Nesse projeto eu estava aprendendo algumas sintaxes de Markdown no GitHub |![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat) |
 
 ## Como Falar Comigo
-- [LinkedIn](https://br.linkedin.com/in/rian-pereira-greg%C3%B3rio-leite-105bb11a5?trk=people-guest_people_search-card)
-- riangregorioprofissional@gmail.com
+|LinkedIn| Gmail|
+| --- | --- |
+ [LinkedIn](https://br.linkedin.com/in/rian-pereira-greg%C3%B3rio-leite-105bb11a5?trk=people-guest_people_search-card) | riangregorioprofissional@gmail.com 
